@@ -1,21 +1,30 @@
-MIT License
+OpenNextDeck License
 
-Copyright (c) 2025 Simon99de
+Copyright (c) 2025 Simon99
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software, hardware designs, and associated documentation files
+(collectively referred to as the "Materials"), to deal in the Materials 
+without restriction, including without limitation the rights to use, copy, 
+modify, and merge the Materials, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Sale of Files:**
+   - The direct sale of the Materials (e.g., firmware, schematics) without accompanying hardware is strictly prohibited.
+   - The sale of hardware that uses the Materials (e.g., firmware or schematics) is allowed under the condition that the terms in Section 2 are met.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Commercial Use in Products:**
+   - Products incorporating the Materials must fulfill the following conditions:
+     a. Attribution must be given to the original author (Simon99) and the project name ("OpenNextDeck") in all relevant product documentation, online descriptions, or packaging.
+     b. A visible link to the original project must be provided:
+        [https://github.com/Simon99de/OpenNextDeck](https://github.com/Simon99de/OpenNextDeck).
+
+3. **Modification and Redistribution:**
+   - Modified versions of the Materials must retain this license.
+   - Any modifications or derivative works must clearly attribute the original source (Simon99 and OpenNextDeck).
+
+4. **Recommendation:**
+   - It is recommended (but not mandatory) to include a link to the original project when presenting or showcasing the Materials.
+
+5. **Disclaimer of Warranty:**
+   - THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   - IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
