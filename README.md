@@ -15,7 +15,7 @@ The versatile and flexible StreamDeck alternative.
 
 ## Getting Started
 1. **Hardware Requirements**:
-   - ESP32-S3-based board (e.g., ESP32 TouchDown S3 or Makerfabs ESP32-S3 Parallel TFT).
+   - ESP32 TouchDown S3
    - MicroSD card for configuration and storage.
 2. **Firmware Installation**:
    - Flash the firmware from the `firmware/` directory using [PlatformIO](https://platformio.org/).
