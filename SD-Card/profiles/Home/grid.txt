@@ -1,0 +1,4 @@
+grid_layout=3x5
+background_color=F800
+button_spacing=10
+swipe_enabled=1

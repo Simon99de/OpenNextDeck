@@ -1,0 +1,5 @@
+text=Taskmgr
+icon=taskmgr.bmp
+text_position=bottom
+action=hid
+hid_key=CTRL+SHIFT+ESC

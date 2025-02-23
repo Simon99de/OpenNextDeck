@@ -5,6 +5,13 @@ The versatile and flexible StreamDeck alternative.
 
 ---
 
+this project was created by me and ChatGPT.
+anyone can further develop and test the project. (if someone wants to take over the project, they are welcome to write to me)
+
+the project is no longer being developed by me and is not yet functional.
+
+---
+
 ## Key Features
 - **Open Source**: Fully customizable firmware and hardware.
 - **Flexible Input Options**: Supports HID (keyboard/mouse), MIDI, and I2C.
