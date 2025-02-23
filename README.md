@@ -20,17 +20,6 @@ the project is no longer being developed by me and is not yet functional.
 
 ---
 
-## Getting Started
-1. **Hardware Requirements**:
-   - ESP32 TouchDown S3 (ESP32-S3 Base)
-   - MicroSD card for configuration and storage.
-2. **Firmware Installation**:
-   - Flash the firmware from the `firmware/` directory using [PlatformIO](https://platformio.org/).
-3. **Setup**:
-   - Add configuration files to the SD card. See [docs/setup_guide.md](docs/setup_guide.md) for details.
-
----
-
 ## License
 This project is licensed under the **OpenNextDeck License**.  
 - The firmware and schematics may not be sold separately from hardware.
