@@ -31,18 +31,6 @@ the project is no longer being developed by me and is not yet functional.
 
 ---
 
-## Documentation
-- [Setup Guide](docs/setup_guide.md)
-- [API Documentation](docs/API.md)
-- [Configuration Examples](docs/config_examples/)
-
----
-
-## Contributing
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
-
----
-
 ## License
 This project is licensed under the **OpenNextDeck License**.  
 - The firmware and schematics may not be sold separately from hardware.
