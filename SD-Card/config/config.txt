@@ -1,0 +1,35 @@
+; =====================================================
+;    Device-Settings
+; =====================================================
+
+bluetooth_enabled=1
+wifi_enabled=1
+mqtt_enabled=1
+bluetooth_autohide=1
+
+brightness=100         ; 0..100
+display_rotation=1     ; 1=normal, 2=90°, 3=180°, 4=270°
+
+[device]
+esp_name=OpenNextDeck
+default_profile=Home
+
+[display]
+swipe_enabled=1
+swipe_direction=left
+; Kein button_size => wir berechnen es automatisch
+button_spacing=10       ; Rand + Zwischenraum in Pixel
+
+[accessories]
+buzzer_enabled=1
+buzzer_duration_ms=300
+vibrator_enabled=1
+vibrator_duration_ms=500
+vibrator_intensity=128
+battery_enabled=1
+battery_low_threshold=3.6
+battery_critical_threshold=3.3
+light_sensor_enabled=1
+light_sensor_auto_brightness=1
+
+; Ende

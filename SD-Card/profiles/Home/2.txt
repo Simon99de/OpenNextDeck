@@ -1,0 +1,9 @@
+text=Mute On
+text2=Mute Off
+icon=mute_on.bmp
+icon_off=mute_off.bmp
+action=switch
+vibrator_active=1  ; custom Feld -> interpretieren?
+
+hid_key_1=M
+hid_key_2=Shift+M
